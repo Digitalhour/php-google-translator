@@ -19,8 +19,6 @@
             "Peterujah\\NanoBlock\\": "src/"
         }
     },
-    "archive": {
-      "exclude": ["assets"]
-    },
+
     "prefer-stable": true
 }
